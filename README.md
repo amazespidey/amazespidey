@@ -1,7 +1,7 @@
 ### Hi there Amazespidey👋
 This is my first repository
 <br>
-Author-<h3>Sangrampattnayak<h3>
+Author-<h3>Sangram-pattnayak<h3>
 <!--
 **amazespidey/amazespidey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
